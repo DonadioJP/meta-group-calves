@@ -49,7 +49,7 @@ Dairy calves are traditionally separated from dams shortly after birth and raise
 2. **Scripts**:
    - Run `meta_analysis.R` to reproduce Tables 2-4 and Figures 2-4.
    - Use `forest_plots.R` for visualization (STATA scripts provided for compatibility).
-3. **Dependencies**: ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![metafor](https://img.shields.io/badge/metafor-4.2--0-8B9DC3) ![dplyr](https://img.shields.io/badge/dplyr-1.1.0-1D6F42) ![ggplot2](https://img.shields.io/badge/ggplot2-3.4.0-3A7CB8) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+3. **Dependencies**: ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![metafor](https://img.shields.io/badge/metafor-4.2--0-8B9DC3) ![dplyr](https://img.shields.io/badge/dplyr-1.1.0-1D6F42) ![ggplot2](https://img.shields.io/badge/ggplot2-3.4.0-3A7CB8)
 
 ## ✉️ Contact
 **Corresponding Author**:  
