@@ -1,6 +1,9 @@
 # Meta-Analysis: Effects of Early Group Housing on Dairy Calves
 
-[![Group-calves](figures/groupcalves.jpg)
+<div align="center">
+  <img src="figures/groupcalves.jpg" alt="Calves" width="400"/>
+</div>
+
 
 ## Introduction
 
