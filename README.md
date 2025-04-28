@@ -62,5 +62,5 @@ manuscript critically for important intellectual content. |
 | **Teresa Cristina Alves**<br>(T.C. Alves) | Embrapa Pecuária Sudeste | • Revising the manuscript critically for important intellectual content |
 | **Maria José Hötzel**<br>(M.J. Hötzel) | Laboratório de Etologia Aplicada e Bem-estar Animal, UFSC | • Study design<br>• Critical manuscript revision<br>• CNPq grant PI (#304968/2019-6) |
 | **Matheus Deniz***<br>(M. Deniz) | Dairy Cattle Study Group, FMVZ, Unesp Botucatu | • Study design<br>• Data analysis/interpretation<br>• Manuscript revision<br>• Corresponding author |
-| **Correspondence**: 📧 m.deniz@unesp.br              | 📞 +55 (14) 3880-2954  |
+| **Correspondence**: | m.deniz@unesp.br              | 📞 +55 (14) 3880-2954  |
 | **Funding**    | CAPES (J.P. Donadio scholarship)<br>CNPq grant #304968/2019-6 (M.J. Hötzel) |
