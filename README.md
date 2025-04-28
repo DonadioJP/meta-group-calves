@@ -44,15 +44,24 @@ Dairy calves are traditionally separated from dams shortly after birth and raise
 
 └── LICENSE
 
-## 🛠️ Tools used
+## 🛠️ Skills & Tools
 1. **Data**: Raw data from 51 included studies is in `data/meta_analysis_data.xlsx`.
 2. **Scripts**:
    - Run `meta_analysis.R` to reproduce Tables 2-4 and Figures 2-4.
    - Use `forest_plots.R` for visualization (STATA scripts provided for compatibility).
-3. **Dependencies**: ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![metafor](https://img.shields.io/badge/metafor-4.2--0-8B9DC3) ![dplyr](https://img.shields.io/badge/dplyr-1.1.0-1D6F42) ![ggplot2](https://img.shields.io/badge/ggplot2-3.4.0-3A7CB8)
+3. **Tools**: ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) ![metafor](https://img.shields.io/badge/metafor-4.2--0-8B9DC3) ![dplyr](https://img.shields.io/badge/dplyr-1.1.0-1D6F42) ![ggplot2](https://img.shields.io/badge/ggplot2-3.4.0-3A7CB8) ![Flexdashboard](https://img.shields.io/badge/Flexdashboard-1.0-4B9CD3?logo=r&logoColor=white) ![Quarto](https://img.shields.io/badge/Quarto-1976D2?logo=quarto&logoColor=white)
 
-## ✉️ Contact
-**Corresponding Author**:  
-Prof. Matheus Deniz
-Email: [m.deniz@unesp.br](mailto:m.deniz@unesp.br)  
-Affiliation: Universidade Estadual Paulista, Brazil
+### Research Team
+
+| Name (Abbreviation)       | Affiliation                                                                 | Contributions                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| **João Pedro Donadio**<br>(J.P. Donadio) | Dairy Cattle Study Group, FMVZ, Unesp Botucatu and Animal Science Program, Unesp Botucatu | • Conception and design of the study<br> • Acquisition, analysis, and interpretation of data<br> • Original draft preparation. |
+| **Karolini Tenffen De-Sousa**<br>(K.T. De-Sousa) |  Dairy Cattle Study Group, FMVZ, Unesp Botucatu and Instituto de Zootecnia | • Conception and design of the study<br>• Revising the manuscript critically for important intellectual content |
+| **Rodrigo de Nazaré Santos Torres**<br>(R.N.S. Torres) | Dairy Cattle Study Group, FMVZ, Unesp Botucatu | • Analysis and interpretation of data<br> • Revising the
+manuscript critically for important intellectual content. |
+| **Teresa Cristina Alves**<br>(T.C. Alves) | Embrapa Pecuária Sudeste | • Revising the manuscript critically for important intellectual content |
+| **Maria José Hötzel**<br>(M.J. Hötzel) | Laboratório de Etologia Aplicada e Bem-estar Animal, UFSC | • Study design<br>• Critical manuscript revision<br>• CNPq grant PI (#304968/2019-6) |
+| **Matheus Deniz***<br>(M. Deniz) | Dairy Cattle Study Group, FMVZ, Unesp Botucatu | • Study design<br>• Data analysis/interpretation<br>• Manuscript revision<br>• Corresponding author |
+**Correspondence**: 📧 m.deniz@unesp.br | 📞 +55 (14) 3880-2954  
+
+| **Funding**    | CAPES (J.P. Donadio scholarship)<br>CNPq grant #304968/2019-6 (M.J. Hötzel) |
