@@ -62,3 +62,5 @@ Dairy calves are traditionally separated from dams shortly after birth and raise
 | **Maria José Hötzel**<br>(M.J. Hötzel) | Laboratório de Etologia Aplicada e Bem-estar Animal, UFSC | • Study design<br>• Critical manuscript revision<br>• CNPq grant PI (#304968/2019-6) |
 | **Matheus Deniz***<br>(M. Deniz) | Dairy Cattle Study Group, FMVZ, Unesp Botucatu | • Study design<br>• Data analysis/interpretation<br>• Manuscript revision<br>• Corresponding author |
 | **Correspondence**: | m.deniz@unesp.br              | 📞 +55 (14) 3880-2954  |
+
+"Note: The original analysis was conducted by R.N.S. Torres (as published). The current version was independently replicated by J.P. Donadio as a learning exercise."
