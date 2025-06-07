@@ -9,7 +9,8 @@
 
 This repository contains data, scripts, and supplementary materials for the meta-analysis:  
 **"A meta-analysis approach to evaluate the effects of early group housing on calf performance, health, and behavior during the preweaning period"**  
-Published in *Journal of Dairy Science* (2025). [DOI: 10.3168/jds.2024-25159](https://doi.org/10.3168/jds.2024-25159)
+
+[Published in *Journal of Dairy Science*](https://doi.org/10.3168/jds.2024-25159)
 
 ---
 
